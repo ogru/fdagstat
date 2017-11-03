@@ -25,9 +25,7 @@ After installing you can add the library to your project/script in a conventiona
 
 ## Tutorials
 
-To see some of the capabilities of the package and/or get started with using the package please checkout the vignette at the following link
-https://rawgit.com/ogru/fdagstat/master/vignette/First_Steps.html
-(it opens inside your web-browser, no need to download!)
+To see some of the capabilities of the package and/or get started with using the package please checkout the vignette at the following [link](https://rawgit.com/ogru/fdagstat/master/vignette/First_Steps.html)(it opens inside your web-browser, no need to download!)
 
 ## License
 The package is distributed under the terms of the GPL-2 license (see LICENSE.txt).
