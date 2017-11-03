@@ -3,3 +3,4 @@
 *.dll
 .DS_Store
 .*
+*.Rmd
