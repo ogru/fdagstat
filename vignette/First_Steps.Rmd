@@ -122,6 +122,9 @@ print(plotVariogram(g, ggReturn = TRUE) + scale_colour_manual(values=c("black"))
 ````{r VariogramTNP, fig.align='center', fig.height=3, fig.width = 4}
 print(plotVariogram(g, npSize = TRUE, ggReturn = TRUE) + scale_colour_manual(values=c("black")) +  theme(strip.background = element_rect("orange")) + ggtitle("New Title") + xlab('New X') + ylab('New y'))
 ````
+
+#
+
 The empirical variogram has a clear quadratic behavior at 0. Therefore, we proceed to fit a Gaussian model with the `fitVariograms` function.
 
 ```{r fitVariograms, fig.cap="Fitted variogram", fig.align='center',  fig.height=4, fig.width = 5,}
