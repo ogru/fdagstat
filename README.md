@@ -35,7 +35,7 @@ If you encounter any error(s) while installing or using the package please feel 
 
 ## Citation
 
-If you find this package useful in your work please consider citing it with the following Bibtex entry:
+If you find this package useful in your work please consider citing it in your publication(s) with the following Bibtex entry:
 ```
 @Manual{fdagstat_2017,
   title  = {fdagstat, an \proglang{R} package},
