@@ -6,7 +6,7 @@ The 'fdagstat' R package implements the recently developed methods of geostatist
 
 1. Universal trace kriging by [Menafoglio et al (2013)](https://projecteuclid.org/euclid.ejs/1379596770)
 2. Ordinary trace kriging by [Giraldo et al (2011)](https://link.springer.com/article/10.1007/s10651-010-0143-y)
-3. Universal trace co-kriging by [Grujic et al (2017)]( https://www.doi.org/10.1007/s00477-017-1486-9)
+3. Universal trace co-kriging by [Grujic et al (2017)]( https://doi.org/10.1007/s00477-017-1486-9)
 4. Ordinary co-kriging of fpc scores by [Nerini et al (2010)]( http://www.sciencedirect.com/science/article/pii/S0047259X0900061X)
 5. Universal co-kriging of fpc scores by [Menafoglio et al (2016)](http://www.sciencedirect.com/science/article/pii/S2211675315001141)
 6. Universal co-kriging of fpc scores of multivariate functional data by [Bohorquez et al (2016)](http://dx.doi.org/10.1007/s00477-016-1266-y)
@@ -25,7 +25,7 @@ After installing you can add the library to your project/script in a conventiona
 
 ## Tutorials
 
-To see some of the capabilities of the package and/or get started with using the package please checkout the vignette at the following [link](https://rawgit.com/ogru/fdagstat/master/vignette/First_Steps.html)(it opens inside your web-browser, no need to download!)
+To see some of the capabilities of the package and/or get started with using the package please checkout the vignette at the following [link](https://rawgit.com/ogru/fdagstat/master/vignette/First_Steps_With_fdagstat.html)(it opens inside your web-browser, no need to download!)
 
 ## License
 The package is distributed under the terms of the GPL-2 license (see LICENSE.txt).
