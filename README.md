@@ -32,3 +32,16 @@ The package is distributed under the terms of the GPL-2 license (see LICENSE.txt
 
 
 If you encounter any error(s) while installing or using the package please feel free to raise an issue at the repo or send an e-mail to ognjengr@gmail.com
+
+## Citation
+
+If you find this package useful in your work please consider citing it with the following Bibtex entry:
+```
+@Manual{fdagstat_2017,
+  title  = {fdagstat, an \proglang{R} package},
+  author = {Ognjen Grujic and Alessandra Menafoglio},
+  year   = {2017},
+  note   = {\proglang{R}~package version~1.0},
+  url    = {https://github.com/ogru/fdagstat},
+}
+```
