@@ -3,4 +3,4 @@
 *.dll
 .DS_Store
 .*
-*.Rmd
+vignette/*.Rmd
