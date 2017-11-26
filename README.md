@@ -21,11 +21,11 @@ To install the package first install `devtools` (`install.packages("devtools")`)
 devtools::install_github("ogru/fdagstat")
 ```
 
-After installing you can add the library to your project/script in a conventional manner with `library(fdagstat)`.
+After installing you can add the library to your project/script in the conventional manner with `library(fdagstat)`.
 
 ## Tutorials
 
-To see some of the capabilities of the package and/or get started with using the package please checkout the vignette at the following [link](https://rawgit.com/ogru/fdagstat/master/vignette/First_Steps_With_fdagstat.html)(it opens inside your web-browser, no need to download!)
+To see some of the capabilities of the package and/or get started with using the package, please checkout the vignette at the following [link](https://rawgit.com/ogru/fdagstat/master/vignette/First_Steps_With_fdagstat.html) (it opens inside your web-browser, no need to download!)
 
 A new vignette! Shale modeling with `fdagstat` [(link)](https://rawgit.com/ogru/fdagstat/master/vignette/Shale_Modeling_with_fdagstat.html)
 
