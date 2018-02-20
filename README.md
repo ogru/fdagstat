@@ -29,6 +29,8 @@ To see some of the capabilities of the package and/or get started with using the
 
 A new vignette! Shale modeling with `fdagstat` [(link)](https://rawgit.com/ogru/fdagstat/master/vignette/Shale_Modeling_with_fdagstat.html)
 
+Note: If you are using Safari web browser some formulas might not display correctly. I recommend that you use Firefox or Chrome to view the vignettes.
+
 ## License
 The package is distributed under the terms of the GPL-2 license (see LICENSE.txt).
 
